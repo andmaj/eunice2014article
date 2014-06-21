@@ -1,0 +1,8 @@
+/* Optional macro. The program will divide result with this value. */
+#define LOOP_COUNT 1000000
+#interval WIDTH 8 27 "Width"
+
+int loop_i;
+
+uint_fast8_t weight;
+uint_fast64_t r;

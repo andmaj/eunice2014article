@@ -1,0 +1,10 @@
+# Contains sources to compile
+# One file per line
+#
+# Example:
+# somedir/test.c
+# example.cpp
+
+orders/normal_binom/binom.c
+orders/normal/lexico.c
+orders/posvect.c

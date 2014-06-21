@@ -1,0 +1,55 @@
+Version 1.0.6:
+==============
+
+2014-06-21  Andras Majdan	<majdan.andras@gmail.com>
+
+    * Added "nothing" and fixed a typo in README
+    * Added a new special test "nothing"
+
+Version 1.0.5:
+==============
+
+2014-06-07  Andras Majdan	<majdan.andras@gmail.com>
+
+    * Added a progress indicator for run
+
+Version 1.0.4:
+==============
+
+2014-04-28  Andras Majdan	<majdan.andras@gmail.com>
+
+    * FIX: SOURCE, LINK, INCLUDE, RUN filter empty lines
+
+Version 1.0.3:
+==============
+
+2014-04-05  Andras Majdan	<majdan.andras@gmail.com>
+
+    * FIX: Run commands from RUN file in current working directory
+           instead of test directory
+    * Path can be given for a library in LINK file
+
+Version 1.0.2:
+==============
+
+2013-12-12  Andras Majdan	<majdan.andras@gmail.com>
+
+    * FIX: XML to gnuplot bugs
+    * Added defines as -D parameter
+    * Added a progress indicator for make
+
+Version 1.0.1:
+==============
+
+2013-12-11  Andras Majdan	<majdan.andras@gmail.com>
+
+    * Added -O2 optimization
+    * Added -DSTDC_LIMIT_MACROS
+    * Added interval macro as -D parameter
+    
+Version 1.0.0:
+==============
+
+2013-11-25  Andras Majdan	<majdan.andras@gmail.com>
+
+    * Initial release

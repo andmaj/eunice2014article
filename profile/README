@@ -1,0 +1,10 @@
+Orders valgrind benchmark
+=========================
+make test
+make check
+make run-check
+make run-test
+
+Results are in the result folder.
+
+

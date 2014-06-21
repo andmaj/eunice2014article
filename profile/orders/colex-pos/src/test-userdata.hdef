@@ -1,0 +1,12 @@
+/* Optional macro. The program will divide result with this value. */
+#ifdef CHECK
+#define LOOP_COUNT 10000
+#else
+#define LOOP_COUNT 1000000
+#endif
+#define WIDTH 25
+
+int loop_i;
+
+uint_fast8_t posvect[WIDTH];
+uint_fast8_t weight;
